@@ -1,19 +1,4 @@
 # Web & Mobile App Development Curriculum
-## Tools and Technologies Used
-
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
-![ReactJS](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![NextJS](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
-![NodeJS](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-![Firebase](https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
-
 ## Module 1: Web Designing
 - **Pre-requisites**: Matriculation
 - **Duration**: 2 Months - 48 Hours
