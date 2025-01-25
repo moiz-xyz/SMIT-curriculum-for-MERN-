@@ -108,6 +108,81 @@
    - Tailwind CSS
    - Material (MUI)
    - AntD
+1. CRA (Create React App)
+What It Is: Create React App is a tool for setting up a new React project with a default configuration. It abstracts away most of the configuration needed for a React app (e.g., Webpack, Babel).
+Topics It Includes:
+Setting up a project
+Development server
+Hot-reloading
+Optimized production build
+2. Vite
+What It Is: Vite is a modern build tool that provides fast development server startup and optimized builds for production. It's often seen as an alternative to CRA.
+Topics It Includes:
+Fast server startup
+Native ESM (ECMAScript Modules) support
+Build optimization (e.g., code-splitting)
+Hot Module Replacement (HMR)
+3. React Icons
+What It Is: React Icons is a library for using popular icon sets like Font Awesome, Material Icons, and others directly in React components.
+Topics It Includes:
+Importing and using icons as React components
+Customizing icon styles (size, color, etc.)
+Integrating with other UI libraries
+4. React Router DOM
+What It Is: React Router is a standard routing library for React. It allows you to handle navigation (e.g., switching between pages) in single-page applications (SPAs).
+Topics It Includes:
+Setting up routes with <Route /> and <Switch />
+Creating links with <Link /> and <NavLink />
+Nested routes and dynamic routing
+Route protection (e.g., private routes)
+5. Context API
+What It Is: The Context API is a feature of React that allows for global state management in React apps, making it easier to pass data through the component tree without prop drilling.
+Topics It Includes:
+Creating and using context with createContext()
+Providing and consuming context with <Provider /> and useContext()
+Managing global state and side effects
+6. Redux
+What It Is: Redux is a state management library that helps you manage the state of your application in a predictable way.
+Topics It Includes:
+Actions, reducers, and stores
+Dispatching actions and updating state
+Redux middleware (e.g., Redux Thunk for async actions)
+Connecting Redux with React using connect() or useSelector() and useDispatch()
+7. TanStack Query (formerly React Query)
+What It Is: TanStack Query is a data-fetching and caching library that simplifies working with remote data in React apps.
+Topics It Includes:
+Fetching data with useQuery()
+Mutating data with useMutation()
+Caching and background refetching
+Pagination and infinite scrolling
+Error handling and retries
+8. Ahooks
+What It Is: Ahooks is a collection of high-quality React hooks that help with state management, effects, and other common tasks.
+Topics It Includes:
+Custom hooks for use cases like debouncing, fetching, and more
+Performance optimization hooks
+Reusable logic for common tasks
+9. Tailwind CSS
+What It Is: Tailwind CSS is a utility-first CSS framework that allows you to style your components using predefined utility classes.
+Topics It Includes:
+Using utility classes for layout, typography, colors, etc.
+Customizing Tailwind using tailwind.config.js
+Responsive design with Tailwind's mobile-first approach
+Utility-first CSS methodology
+10. Material UI (MUI)
+What It Is: MUI is a popular React UI library that provides pre-built components following Google's Material Design principles.
+Topics It Includes:
+Using MUI components like Button, TextField, Dialog, etc.
+Customizing MUI themes
+Building responsive layouts with MUI's Grid system
+Using MUI's icons and accessibility features
+11. Ant Design (AntD)
+What It Is: Ant Design is another UI library for React, offering a comprehensive set of high-quality components and design patterns.
+Topics It Includes:
+Using AntD components like Button, Table, Form, etc.
+Customizing AntD themes
+Handling form validation with AntD forms
+Integrating AntD's grid system for responsive layouts
 2. **NextJS**
    - SSR
    - AMP
